@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Valentino Ibrahim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-SEvalentino/SEvalentino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @SEvalentino
+- 👀 I’m interested in Infrastructure
+- 🌱 I’m currently learning Docker, Web Server and App Server
+- 💞️ I’m looking to collaborate on Infra Team
+- 📫 How to reach me ibrahimvalentino58@gmail.com
