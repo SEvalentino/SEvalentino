@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SEvalentino
 - 👀 I’m interested in Infrastructure
-- 🌱 I’m currently learning Docker, Web Server and App Server
+- 🌱 I’m currently learning Docker, Web Server, App Server and Monitoring
 - 💞️ I’m looking to collaborate on Infra Team
 - 📫 How to reach me ibrahimvalentino58@gmail.com
